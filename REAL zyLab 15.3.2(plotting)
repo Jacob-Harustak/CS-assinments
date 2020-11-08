@@ -61,4 +61,4 @@ plt.show()
 #Pie Chart
 
 plt.pie(alcohol_fatalities, labels=total_fatalities, autopct='%1.1f%%', radius=2.5)
-plt.show()
+plt.show() 
